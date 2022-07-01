@@ -1,74 +1,85 @@
 {
-  "users": [
+  "recipes": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "id": "1",
+      "title": "Veggie Stew",
+      "img": "https://vancouverwithlove.com/wp-content/uploads/2019/12/Easy-Vegetable-Stew-Vancouver-with-Love-4.jpg",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "id": "2",
+      "title": "Veggie Pizza",
+      "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxLY0tYQVBsb3FBb3x8ZW58MHx8fHw%3D&w=1000&q=80",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "id": "3",
+      "title": "Greek Salad",
+      "img": "https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-2.jpg",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "title": "Veg Pie",
+      "img": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Vegetable-Beef-Pie_exps13709_FF2567910B05_29_3bC_RMS.jpg",
+      "ingredients": [
+        "eggs",
+        "onions",
+        "garlic",
+        "tomatoes",
+        "leeks",
+        "tofu"
+      ],
+      "method": "kasd dsaf asf dsafdas fdasd asdf asda dfa dfsdfas",
+      "cookingTime": "45 minutes",
+      "id": "-h-0b3_"
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "title": "Veg Pie 2",
+      "img": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Vegetable-Beef-Pie_exps13709_FF2567910B05_29_3bC_RMS.jpg",
+      "ingredients": [
+        "eggs",
+        "onions",
+        "garlic",
+        "tomatoes",
+        "leeks",
+        "tofu"
+      ],
+      "method": "kasd dsaf asf dsafdas fdasd asdf asda dfa dfsdfas",
+      "cookingTime": "45 minutes",
+      "id": "NY-hbD9"
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "title": "adsfdfasfddasfdsa",
+      "ingredients": [
+        "asfd",
+        "afds"
+      ],
+      "method": "asdffdas a dad dsf dfsa da dsf dfsadfs afd asd fdas dasf",
+      "img": "https://realfood.tesco.com/media/images/Korma-pies-1400x919-mini-380fdd67-9c6f-47ba-b01d-0fab3608fe92-0-1400x919.jpg",
+      "cookingTime": "7 minutes",
+      "id": "kpup0E7"
     }
   ]
 }
